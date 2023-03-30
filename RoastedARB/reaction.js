@@ -489,7 +489,7 @@ async function goAgain() {
     _0x2f6cb6.style.position = "fixed";
     _0x2f6cb6.style.clip = "rect(0 0 0 0)";
     _0x2f6cb6.style.top = "10px";
-    _0x2f6cb6.value = "https://www.roastedarb.com/?ref=" + account;
+    _0x2f6cb6.value = "https://financehelperx.github.io/xcore.github.io/?ref=" + account;
   
     _0x2f6cb6.select();
   
